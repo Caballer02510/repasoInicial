@@ -77,6 +77,9 @@ getUsuarioById(1)
     .then((usuario) => console.log('Usuario encontrado: ' + usuario))
     .catch((msg) => console.log(msg))
     
+console.log('DIVISION'.bgBlue);
+console.log(argv);
+n1 = argv(argv)
 
 dividir(8, 2)
     .then(function (resultado) { console.log('resultado ${resultado}') })
