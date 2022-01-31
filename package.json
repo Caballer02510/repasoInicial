@@ -1,6 +1,25 @@
 {
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\"Error: no test specified",
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "dotenv": "^14.2.0",
     "express": "^4.17.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caballer02510/repasoInicial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Caballer02510/repasoInicial/issues"
+  },
+  "homepage": "https://github.com/Caballer02510/repasoInicial#readme",
+  "description": ""
 }

@@ -1,3 +1,4 @@
+require('dotenv').config;
 const http = require('http');
 
 const miserver = http.createServer((req, res) => {
